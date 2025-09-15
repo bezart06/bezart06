@@ -71,7 +71,6 @@ A desktop application for enhanced OS control, providing distraction-free operat
 
 | Area | Focus |
 |:----:|:------|
-| 🎮 | Game Development & RPG Systems |
 | 🛠️ | Desktop Application Development |
 | 📊 | Data-driven Architecture |
 | 🔧 | Open-source Contributions |
@@ -88,14 +87,6 @@ I'm excited to collaborate on:
 - 🌐 Open-source applications
 - 🔧 Developer utilities and productivity tools
 - 🌍 Multi-language software and translation projects
-
-## 📊 Development Activity
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=bezart06&theme=dark&hide_border=true&background=0D1117&dates=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakNum=FFFFFF)](https://git.io/streak-stats)
-
-</div>
 
 ## 📫 Let's Connect
 
